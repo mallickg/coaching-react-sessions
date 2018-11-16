@@ -1,6 +1,6 @@
 # Jeudi 08/11/2018
 
-## Sujets abordés
+## Sujets abordés 
 
 - Presentation de l'équipe
 - Presentation du contexte technique (technos, monolythique, skills developpeur)
